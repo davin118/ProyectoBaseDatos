@@ -14,10 +14,12 @@
           <a href="producto_agregar.php">
             <input class="btn btn-primary" type="button" value="Agregar producto">
           </a>
+          <a href="generarReporte.php">
+            <input class="btn btn-primary" type="button" value="Generar Reporte">
+          </a>
         </div>
         <div class="col-sm-12">
           <div class="table-responsive">
-
 
             <table class="table table-striped table-hover">
               <thead>
