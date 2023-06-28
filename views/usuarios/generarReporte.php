@@ -39,7 +39,7 @@ if ($productos->num_rows > 0) {
     $html .= '<th style="padding: 8px; border: 1px solid #ddd;">Precio</th>';
     $html .= '<th style="padding: 8px; border: 1px solid #ddd;">Cantidad</th>';
     $html .= '<th style="padding: 8px; border: 1px solid #ddd;">Cantidad Minima</th>';
-    $html .= '<th style="padding: 8px; border: 1px solid #ddd;">Categorias</th>';
+    $html .= '<th style="padding: 8px; border: 1px solid #ddd;">Categoria</th>';
     $html .= '</tr>';
 
     // Construye el contenido de la tabla con estilos
